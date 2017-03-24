@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <Placemark>
+    <Placemark id="1">
       <name>Start</name>
       <Point>
       <coordinates>-122.4421204223396,37.46386270128492,11.84677033637466</coordinates>
       </Point>
     </Placemark>
-    <Placemark>
+    <Placemark id="2">
       <name>oceanmiramontes</name>
       <description>
       <![CDATA[
@@ -19,7 +19,7 @@
       <coordinates>-122.4420276479645,37.46384649268413,10.23527717590332</coordinates>
       </Point>
     </Placemark>
-    <Placemark>
+    <Placemark id="3">
       <name>turningpoint</name>
       <description>
       <![CDATA[
@@ -31,7 +31,7 @@
       <coordinates>-122.445223012353,37.46335656882113,10.51458916902912</coordinates>
       </Point>
     </Placemark>
-    <Placemark>
+    <Placemark id="4">
       <name>bridge</name>
       <description>
       <![CDATA[
@@ -43,7 +43,7 @@
       <coordinates>-122.4430322390948,37.45227179672843,16.41173010220579</coordinates>
       </Point>
     </Placemark>
-    <Placemark>
+    <Placemark id="5">
       <name>ravine</name>
       <description>
       <![CDATA[
@@ -55,7 +55,7 @@
       <coordinates>-122.4434010938464,37.44197042447747,10.75581622735103</coordinates>
       </Point>
     </Placemark>
-    <Placemark>
+    <Placemark id="6">
       <name>heron</name>
       <description>
       <![CDATA[
@@ -67,7 +67,7 @@
       <coordinates>-122.4441561473143,37.45243676909998,15.04282513646778</coordinates>
       </Point>
     </Placemark>
-    <Placemark>
+    <Placemark id="7">
       <name>dirttrailbegins</name>
       <description>
       <![CDATA[
@@ -79,7 +79,7 @@
       <coordinates>-122.443988887874,37.44860685096052,16.93148139145767</coordinates>
       </Point>
     </Placemark>
-    <Placemark>
+    <Placemark id="8">
       <name>frombeach</name>
       <description>
       <![CDATA[
@@ -91,7 +91,7 @@
       <coordinates>-122.4452815791518,37.46318947422393,10.88741233729944</coordinates>
       </Point>
     </Placemark>
-    <Placemark>
+    <Placemark id="9">
       <name>downtothebeach</name>
       <description>
       <![CDATA[
@@ -103,7 +103,7 @@
       <coordinates>-122.4443738861814,37.45566978704045,10.60358578611839</coordinates>
       </Point>
     </Placemark>
-    <Placemark>
+    <Placemark id="10">
       <name>parkingtoilets</name>
       <description>
       <![CDATA[
@@ -115,7 +115,7 @@
       <coordinates>-122.4439399727848,37.45526560878482,14.15508996350863</coordinates>
       </Point>
     </Placemark>
-    <Placemark>
+    <Placemark id="11">
       <name>gravel</name>
       <description>
       <![CDATA[
@@ -127,7 +127,7 @@
       <coordinates>-122.4436476641578,37.4517164310663,17.63659491508502</coordinates>
       </Point>
     </Placemark>
-    <Placemark>
+    <Placemark id="12">
       <name>midwayback</name>
       <description>
       <![CDATA[
@@ -139,7 +139,7 @@
       <coordinates>-122.4442504700061,37.45139064241091,15.5854736829997</coordinates>
       </Point>
     </Placemark>
-    <Placemark>
+    <Placemark id="13">
       <name>ritz</name>
       <description>
       <![CDATA[
@@ -151,7 +151,7 @@
       <coordinates>-122.4429373514245,37.44225049829141,17.8436096252055</coordinates>
       </Point>
     </Placemark>
-    <Placemark>
+    <Placemark id="14">
       <name>Waypoint</name>
       <description>
       <![CDATA[
@@ -163,13 +163,13 @@
       <coordinates>-122.4431030587861,37.46382725649958,10.49393189083811</coordinates>
       </Point>
     </Placemark>
-    <Placemark>
+    <Placemark id="15">
       <name>End</name>
       <Point>
       <coordinates>-122.4420420431167,37.46404425427259,10.23527717590332</coordinates>
       </Point>
     </Placemark>
-    <Placemark>
+    <Placemark id="16">
       <name>kellyritz.kml</name>
       <Style>
         <LineStyle>
