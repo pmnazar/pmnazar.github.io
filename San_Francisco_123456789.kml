@@ -13,7 +13,7 @@ http://www.w3.org/2005/Atom
 http://schemas.opengis.net/kml/2.2.0/atom-author-link.xsd">
     <!-- ...Insert your KML code here... -->
     <Document>
-        <name>San Francisco</name>
+        <name>Half Moon Bay</name>
         <description><![CDATA[Half Moon Bay is a coastal city 28 miles
     south of San Francisco. Its Main Street is lined with craft and
     boutique stores, bakeries and nice restaurants. Just north of it
@@ -22,6 +22,14 @@ http://schemas.opengis.net/kml/2.2.0/atom-author-link.xsd">
     posh Rithz Carlton Hotel, golf course, cocktails and views.
     <br>See http://www.half-moon-bay.ca.us<br><br>]]>
         </description>
+        <ExtendedData>
+            <Data name="walk1">
+                <value>kellyritz.kml</value>
+            </Data>
+            <Data name="walk2">
+                <value>miramarkelly.kml</value>
+            </Data>
+        </ExtendedData>
         <Style id="icon-1899-0288D1-normal">
             <IconStyle>
                 <color>ffd18802</color>
@@ -58,21 +66,21 @@ http://schemas.opengis.net/kml/2.2.0/atom-author-link.xsd">
         </StyleMap>
         <Placemark>
             <name>ll</name>
-            <description>Lower left corner of the default view</description>
+            <description>Lower Left</description>
             <styleUrl>#icon-1899-0288D1</styleUrl>
             <Point>
                 <coordinates>
-                    -122.7100754,37.7074548,0
+                    -122.5088882,37.418845,0
                 </coordinates>
             </Point>
         </Placemark>
         <Placemark>
             <name>ur</name>
-            <description>Upper Right corner of the default view</description>
+            <description>Upper Right</description>
             <styleUrl>#icon-1899-0288D1</styleUrl>
             <Point>
                 <coordinates>
-                    -122.3423767,37.8919246,0
+                    -122.4036598,37.5132662,0
                 </coordinates>
             </Point>
         </Placemark>
