@@ -6,13 +6,12 @@
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xsi:schemaLocation=
              "http://www.opengis.net/kml/2.2
-            http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd
-            http://www.google.com/kml/ext/2.2
-            https://developers.google.com/kml/schema/kml22gx.xsd
-            http://www.w3.org/2005/Atom
-            http://schemas.opengis.net/kml/2.2.0/atom-author-link.xsd">
+http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd
+http://www.google.com/kml/ext/2.2
+https://developers.google.com/kml/schema/kml22gx.xsd
+http://www.w3.org/2005/Atom
+http://schemas.opengis.net/kml/2.2.0/atom-author-link.xsd">
     <!-- ...Insert your KML code here... -->
-    >
     <Document>
         <name>Half Moon Bay</name>
         <description><![CDATA[Half Moon Bay is a coastal city 28 miles
