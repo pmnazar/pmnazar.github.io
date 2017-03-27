@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Window Frame</name>
+    <name>Half Moon Bay</name>
+    <description><![CDATA[Half Moon Bay is a coastal city 28 miles
+    south of San Francisco. Its Main Street is lined with craft and
+    boutique stores, bakeries and nice restaurants. Just north of it
+    is Princeton Harbor, where live fish and crab can be bought from
+    boats and several seafood restaurants are locted. South of it is
+    posh Rithz Carlton Hotel, golf course, cocktails and views.
+    <br>See http://www.half-moon-bay.ca.us<br><br>]]>
+    </description>    
+    <ExtendedData>
+      <Data name="walk1">
+	<value>kellyritz.kml</value>
+      </Data>
+      <Data name="walk2">
+	<value>miramarkelly.kml</value>
+      </Data>
+    </ExtendedData>
     <Style id="icon-1899-0288D1-normal">
       <IconStyle>
         <color>ffd18802</color>
