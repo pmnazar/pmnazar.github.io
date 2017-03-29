@@ -1,5 +1,17 @@
 <?xml version="1.0"?>
-<kml xmlns="http://www.opengis.net/kml/2.2">
+<kml xmlns="http://www.opengis.net/kml/2.2"
+     xmlns:gx="http://www.google.com/kml/ext/2.2"
+	 xmlns:kml="http://www.opengis.net/kml/2.2"
+	 xmlns:atom="http://www.w3.org/2005/Atom"
+	 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	 xsi:schemaLocation=
+	   "http://www.opengis.net/kml/2.2
+		http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd
+		http://www.google.com/kml/ext/2.2
+		https://developers.google.com/kml/schema/kml22gx.xsd
+		http://www.w3.org/2005/Atom
+		http://schemas.opengis.net/kml/2.2.0/atom-author-link.xsd">
+<!-- ...Insert your KML code here... -->
   <Document>
     <Placemark>
       <name>Start</name>
@@ -12,7 +24,7 @@
       <description>
       <![CDATA[
       Image:
-      <img src="photos/2017-03-21T16-45-26-207Z.jpg" width='600'/>
+      <img src="photos/Half_Moon_Bay/miramar_kelly/2017-03-21T16-45-26-207Z.jpg" width='600'/>
       ]]>
       </description>
       <Point>
@@ -24,7 +36,7 @@
       <description>
       <![CDATA[
       Image:
-      <img src="photos/2017-03-21T17-45-15-294Z.jpg" width='600'/>
+      <img src="photos/Half_Moon_Bay/miramar_kelly/2017-03-21T17-45-15-294Z.jpg" width='600'/>
       ]]>
       </description>
       <Point>
@@ -36,7 +48,7 @@
       <description>
       <![CDATA[
       Image:
-      <img src="photos/2017-03-21T16-42-48-023Z.jpg" width='600'/>
+      <img src="photos/Half_Moon_Bay/miramar_kelly/2017-03-21T16-42-48-023Z.jpg" width='600'/>
       ]]>
       </description>
       <Point>
@@ -48,7 +60,7 @@
       <description>
       <![CDATA[
       Image:
-      <img src="photos/2017-03-21T16-48-19-608Z.jpg" width='600'/>
+      <img src="photos/Half_Moon_Bay/miramar_kelly/2017-03-21T16-48-19-608Z.jpg" width='600'/>
       ]]>
       </description>
       <Point>
@@ -60,7 +72,7 @@
       <description>
       <![CDATA[
       Image:
-      <img src="photos/2017-03-21T15-40-15-941Z.jpg" width='600'/>
+      <img src="photos/Half_Moon_Bay/miramar_kelly/2017-03-21T15-40-15-941Z.jpg" width='600'/>
       Pacific]]>
       </description>
       <Point>
@@ -72,7 +84,7 @@
       <description>
       <![CDATA[
       Image:
-      <img src="photos/2017-03-21T16-12-01-451Z.jpg" width='600'/>
+      <img src="photos/Half_Moon_Bay/miramar_kelly/2017-03-21T16-12-01-451Z.jpg" width='600'/>
       ]]>
       </description>
       <Point>
@@ -84,7 +96,7 @@
       <description>
       <![CDATA[
       Image:
-      <img src="photos/2017-03-21T15-38-23-146Z.jpg" width='600'/>
+      <img src="photos/Half_Moon_Bay/miramar_kelly/2017-03-21T15-38-23-146Z.jpg" width='600'/>
       start]]>
       </description>
       <Point>
@@ -96,7 +108,7 @@
       <description>
       <![CDATA[
       Image:
-      <img src="photos/2017-03-21T16-04-43-056Z.jpg" width='600'/>
+      <img src="photos/Half_Moon_Bay/miramar_kelly/2017-03-21T16-04-43-056Z.jpg" width='600'/>
       ]]>
       </description>
       <Point>
@@ -108,7 +120,7 @@
       <description>
       <![CDATA[
       Image:
-      <img src="photos/2017-03-21T16-36-56-052Z.jpg" width='600'/>
+      <img src="photos/Half_Moon_Bay/miramar_kelly/2017-03-21T16-36-56-052Z.jpg" width='600'/>
       ]]>
       </description>
       <Point>
@@ -120,7 +132,7 @@
       <description>
       <![CDATA[
       Image:
-      <img src="photos/2017-03-21T16-10-45-561Z.jpg" width='600'/>
+      <img src="photos/Half_Moon_Bay/miramar_kelly/2017-03-21T16-10-45-561Z.jpg" width='600'/>
       ]]>
       </description>
       <Point>
@@ -132,7 +144,7 @@
       <description>
       <![CDATA[
       Image:
-      <img src="photos/2017-03-21T16-29-10-978Z.jpg" width='600'/>
+      <img src="photos/Half_Moon_Bay/miramar_kelly/2017-03-21T16-29-10-978Z.jpg" width='600'/>
       ]]>
       </description>
       <Point>
@@ -144,7 +156,7 @@
       <description>
       <![CDATA[
       Image:
-      <img src="photos/2017-03-21T17-46-18-472Z.jpg" width='600'/>
+      <img src="photos/Half_Moon_Bay/miramar_kelly/2017-03-21T17-46-18-472Z.jpg" width='600'/>
       ]]>
       </description>
       <Point>
@@ -156,7 +168,7 @@
       <description>
       <![CDATA[
       Image:
-      <img src="photos/2017-03-21T15-41-40-569Z.jpg" width='600'/>
+      <img src="photos/Half_Moon_Bay/miramar_kelly/2017-03-21T15-41-40-569Z.jpg" width='600'/>
       Witch house]]>
       </description>
       <Point>
@@ -168,7 +180,7 @@
       <description>
       <![CDATA[
       Image:
-      <img src="photos/2017-03-21T15-47-10-683Z.jpg" width='600'/>
+      <img src="photos/Half_Moon_Bay/miramar_kelly/2017-03-21T15-47-10-683Z.jpg" width='600'/>
       Could get down to the beach]]>
       </description>
       <Point>
@@ -180,7 +192,7 @@
       <description>
       <![CDATA[
       Image:
-      <img src="photos/2017-03-21T16-27-11-822Z.jpg" width='600'/>
+      <img src="photos/Half_Moon_Bay/miramar_kelly/2017-03-21T16-27-11-822Z.jpg" width='600'/>
       ]]>
       </description>
       <Point>

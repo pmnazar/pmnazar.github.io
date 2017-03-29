@@ -14,6 +14,22 @@
 <!-- ...Insert your KML code here... -->
   <Document>
     <name>San Francisco</name>
+    <description><![CDATA[San Francisco is the major city of Northern
+    California often called "The City". It is located on the
+    peninsula, Pacific Ocean on the west, San Francisco Bay on the
+    east. It is famous for its views, diverse and rich cultural life
+    and art scene, excellent restaurants and many other things
+    attractive both to residents and tourists.
+    <br>See https://en.wikipedia.org/wiki/San_Francisco<br><br>]]>
+    </description>    
+    <ExtendedData>
+      <Data name="walk1">
+	<value>SF_nikes_hike.kml</value>
+      </Data>
+      <Data name="walk2">
+	<value>SF_southend_union.kml</value>
+      </Data>
+    </ExtendedData>
     <Style id="icon-1899-0288D1-normal">
       <IconStyle>
         <color>ffd18802</color>

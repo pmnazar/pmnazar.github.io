@@ -1,176 +1,188 @@
 <?xml version="1.0"?>
-<kml xmlns="http://www.opengis.net/kml/2.2">
+<kml xmlns="http://www.opengis.net/kml/2.2"
+     xmlns:gx="http://www.google.com/kml/ext/2.2"
+	 xmlns:kml="http://www.opengis.net/kml/2.2"
+	 xmlns:atom="http://www.w3.org/2005/Atom"
+	 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	 xsi:schemaLocation=
+	   "http://www.opengis.net/kml/2.2
+		http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd
+		http://www.google.com/kml/ext/2.2
+		https://developers.google.com/kml/schema/kml22gx.xsd
+		http://www.w3.org/2005/Atom
+		http://schemas.opengis.net/kml/2.2.0/atom-author-link.xsd">
+<!-- ...Insert your KML code here... -->
   <Document>
-    <Placemark id="1">
+    <Placemark>
       <name>Start</name>
       <Point>
       <coordinates>-122.4421204223396,37.46386270128492,11.84677033637466</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="2">
+    <Placemark>
       <name>oceanmiramontes</name>
       <description>
       <![CDATA[
       Image:
-      <img src="photos/2017-03-14T17-12-58-249Z.jpg" width='600'/>
+      <img src="photos/Half_Moon_Bay/kelly_ritz/2017-03-14T17-12-58-249Z.jpg" width='600'/>
       ]]>
       </description>
       <Point>
       <coordinates>-122.4420276479645,37.46384649268413,10.23527717590332</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="3">
+    <Placemark>
       <name>turningpoint</name>
       <description>
       <![CDATA[
       Image:
-      <img src="photos/2017-03-14T15-32-02-564Z.jpg" width='600'/>
+      <img src="photos/Half_Moon_Bay/kelly_ritz/2017-03-14T15-32-02-564Z.jpg" width='600'/>
       turning to coastal paved trail]]>
       </description>
       <Point>
       <coordinates>-122.445223012353,37.46335656882113,10.51458916902912</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="4">
+    <Placemark>
       <name>bridge</name>
       <description>
       <![CDATA[
       Image:
-      <img src="photos/2017-03-14T15-55-40-185Z.jpg" width='600'/>
+      <img src="photos/Half_Moon_Bay/kelly_ritz/2017-03-14T15-55-40-185Z.jpg" width='600'/>
       bridge ]]>
       </description>
       <Point>
       <coordinates>-122.4430322390948,37.45227179672843,16.41173010220579</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="5">
+    <Placemark>
       <name>ravine</name>
       <description>
       <![CDATA[
       Image:
-      <img src="photos/2017-03-14T16-22-05-084Z.jpg" width='600'/>
+      <img src="photos/Half_Moon_Bay/kelly_ritz/2017-03-14T16-22-05-084Z.jpg" width='600'/>
       ravine ]]>
       </description>
       <Point>
       <coordinates>-122.4434010938464,37.44197042447747,10.75581622735103</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="6">
+    <Placemark>
       <name>heron</name>
       <description>
       <![CDATA[
       Image:
-      <img src="photos/2017-03-14T15-53-28-103Z.jpg" width='600'/>
+      <img src="photos/Half_Moon_Bay/kelly_ritz/2017-03-14T15-53-28-103Z.jpg" width='600'/>
       heron]]>
       </description>
       <Point>
       <coordinates>-122.4441561473143,37.45243676909998,15.04282513646778</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="7">
+    <Placemark>
       <name>dirttrailbegins</name>
       <description>
       <![CDATA[
       Image:
-      <img src="photos/2017-03-14T16-05-26-624Z.jpg" width='600'/>
+      <img src="photos/Half_Moon_Bay/kelly_ritz/2017-03-14T16-05-26-624Z.jpg" width='600'/>
       dirt trail begins]]>
       </description>
       <Point>
       <coordinates>-122.443988887874,37.44860685096052,16.93148139145767</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="8">
+    <Placemark>
       <name>frombeach</name>
       <description>
       <![CDATA[
       Image:
-      <img src="photos/2017-03-14T17-07-16-960Z.jpg" width='600'/>
+      <img src="photos/Half_Moon_Bay/kelly_ritz/2017-03-14T17-07-16-960Z.jpg" width='600'/>
       ]]>
       </description>
       <Point>
       <coordinates>-122.4452815791518,37.46318947422393,10.88741233729944</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="9">
+    <Placemark>
       <name>downtothebeach</name>
       <description>
       <![CDATA[
       Image:
-      <img src="photos/2017-03-14T15-46-01-717Z.jpg" width='600'/>
+      <img src="photos/Half_Moon_Bay/kelly_ritz/2017-03-14T15-46-01-717Z.jpg" width='600'/>
       beach]]>
       </description>
       <Point>
       <coordinates>-122.4443738861814,37.45566978704045,10.60358578611839</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="10">
+    <Placemark>
       <name>parkingtoilets</name>
       <description>
       <![CDATA[
       Image:
-      <img src="photos/2017-03-14T15-48-02-087Z.jpg" width='600'/>
+      <img src="photos/Half_Moon_Bay/kelly_ritz/2017-03-14T15-48-02-087Z.jpg" width='600'/>
       toilets ]]>
       </description>
       <Point>
       <coordinates>-122.4439399727848,37.45526560878482,14.15508996350863</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="11">
+    <Placemark>
       <name>gravel</name>
       <description>
       <![CDATA[
       Image:
-      <img src="photos/2017-03-14T15-58-04-411Z.jpg" width='600'/>
+      <img src="photos/Half_Moon_Bay/kelly_ritz/2017-03-14T15-58-04-411Z.jpg" width='600'/>
       gravel]]>
       </description>
       <Point>
       <coordinates>-122.4436476641578,37.4517164310663,17.63659491508502</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="12">
+    <Placemark>
       <name>midwayback</name>
       <description>
       <![CDATA[
       Image:
-      <img src="photos/2017-03-14T16-45-08-255Z.jpg" width='600'/>
+      <img src="photos/Half_Moon_Bay/kelly_ritz/2017-03-14T16-45-08-255Z.jpg" width='600'/>
       midway back ]]>
       </description>
       <Point>
       <coordinates>-122.4442504700061,37.45139064241091,15.5854736829997</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="13">
+    <Placemark>
       <name>ritz</name>
       <description>
       <![CDATA[
       Image:
-      <img src="photos/2017-03-14T16-25-39-321Z.jpg" width='600'/>
+      <img src="photos/Half_Moon_Bay/kelly_ritz/2017-03-14T16-25-39-321Z.jpg" width='600'/>
       ritz]]>
       </description>
       <Point>
       <coordinates>-122.4429373514245,37.44225049829141,17.8436096252055</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="14">
+    <Placemark>
       <name>Waypoint</name>
       <description>
       <![CDATA[
       Image:
-      <img src="photos/2017-03-14T15-27-22-460Z.jpg" width='600'/>
+      <img src="photos/Half_Moon_Bay/kelly_ritz/2017-03-14T15-27-22-460Z.jpg" width='600'/>
       sour grass in full bloom ]]>
       </description>
       <Point>
       <coordinates>-122.4431030587861,37.46382725649958,10.49393189083811</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="15">
+    <Placemark>
       <name>End</name>
       <Point>
       <coordinates>-122.4420420431167,37.46404425427259,10.23527717590332</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="16">
-      <name>kellyritz.kml</name>
+    <Placemark>
+      <name>HMB_kelly_ritz.kml</name>
       <Style>
         <LineStyle>
           <color>FFFF0000</color>
